@@ -143,7 +143,7 @@ const ItemCtrl = (function () {
       data.items.splice(index, 1);
     },
     clearAllItems: function () {
-      data.item = [];
+      data.items = [];
     },
     setCurrentItem: function (item) {
       data.currentItem = item;
