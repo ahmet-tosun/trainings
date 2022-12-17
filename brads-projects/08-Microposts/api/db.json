@@ -7,13 +7,18 @@
     },
     {
       "id": 2,
-      "title": "Post two",
+      "title": "Post Two",
       "body": "This is post two"
     },
     {
-      "id": 3,
       "title": "Post Three",
-      "body": "This is post three"
+      "body": "This is post three",
+      "id": 3
+    },
+    {
+      "title": "Post Four",
+      "body": "This is post four",
+      "id": 4
     }
   ]
 }
